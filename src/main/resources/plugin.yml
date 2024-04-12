@@ -1,0 +1,5 @@
+name: ROS_Food
+version: '${version}'
+main: eagleoffire.rosfood
+authors: [EagleOfFire]
+description: Un plugin pour devoir manger
